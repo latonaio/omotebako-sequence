@@ -6,5 +6,5 @@ omotenbako-sequence は、[omotebako-system](https://github.com/latonaio/omoteba
 
 以下の図は、omotebako-system における、チェックイン機能の一連のプログラム処理の流れと概要を示したシーケンス図です。  
 
-![sequence_omotebako](docs/sequence.png)  
-
+![sequence_omotebako](docs/omotebako1.png)  
+![sequence_omotebako](docs/omotebako2.png)  
